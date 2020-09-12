@@ -1,11 +1,11 @@
 # Site settings
-author: Nattida Wong
-title: 
+author: NATTIDA WONG
+title: UNICORN ADVENTURE
 header-img: img/home-bg.png
 email: nattidac.wong@gmail.com
-copyright_name: Nattida Wong
+copyright_name: NATTIDA WONG
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey into Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Natt1188
